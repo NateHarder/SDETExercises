@@ -1,0 +1,2 @@
+# SchedulicityExerciseSDET
+Schedulicity SDET Exercise
