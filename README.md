@@ -1,5 +1,5 @@
-# SchedulicityExerciseSDET
-Schedulicity SDET Exercise
+# SDET Exercise
+SDET Exercise
 
 To run, execute:
 
